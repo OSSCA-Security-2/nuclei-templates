@@ -36,4 +36,4 @@ http:
         regex:
           - '(?i)"guiVersion"\s*:\s*"([0-9.\-]+)"'
           - '(?i)name="?version"?\s+value="?([0-9.\-]+)"?'
-# digest: 490a0046304402200d447d6bdbe4be48ccf71db6b7a8e560b22f6df433f8f3b40ff737fa38f9e367022034f9c9dacbb63fdd2fcf6134480fbb9d4fa4fec33f34eb6b7c5d453e4909aa33:922c64590222798bb761d5b6d8e72950
+# digest: 4a0a00473045022100eab2b5f61843812ed2e462e20d35211630a5bb2c7c7ad5d8537bf23fdb5317ab022049bebed3cd815dd8bc814f7d0bc05a2fa9b53954c24a2617d88d67aa4af58b6a:922c64590222798bb761d5b6d8e72950
